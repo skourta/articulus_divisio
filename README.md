@@ -27,7 +27,10 @@ Represented in various spaces by using dimensionality reduction techniques inclu
 
 
 ### First Submission:
+#### Labeled Data (Classic4 and BBC)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/first_submission/Partie1.ipynb)
+
+
 ### Second Submission
 
 #### Labeled Data (Classic4 and BBC)
