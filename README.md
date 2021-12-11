@@ -36,10 +36,12 @@ Represented in various spaces by using dimensionality reduction techniques inclu
 #### Labeled Data (Classic4 and BBC)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/Partie1.ipynb)
 
-#### Articles1
+#### Unlabeled Data
+
+##### Articles1
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/articles1.ipynb)
 
-#### Articles2
+##### Articles2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/articles2.ipynb)
 
 ## Simultaneous Dimensionality Reduction and Classification
@@ -56,6 +58,12 @@ The classification is based on multiple work representations including:
   - ROBERTA
 
 ### First Submission:
+#### Labeled Data (Classic4 and BBC)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/first_submission/Partie2.ipynb)
+
 ### Second Submission:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/Partie2.ipynb)
+#### Labeled Data (Classic4 and BBC)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/Partie2Labeled.ipynb)
+
+#### Unlabeled Data (Articles1 and Articles2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skourta/articulus_divisio/blob/main/Partie2Unlabeled.ipynb)
